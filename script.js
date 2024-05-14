@@ -7,6 +7,7 @@ const progressValueText = document.querySelector('.progress-value span')
 const progressLabelText = [
     "Raise the bar by completing your goals!",
     "Keep going, you're on the right track!",
+    "Almonst done! Keep pushing!",
     "You're almost there, just one more to go!",
     "Congratulations! You've completed all tasks. Well done!"
 ]
